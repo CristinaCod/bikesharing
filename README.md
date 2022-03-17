@@ -2,7 +2,9 @@
 
 ## Overview
 ### Purpose
+After the trip of a lifetime to New York City with my best friend Kate we realized that the trip was only so perfect because we used CitiBikes to get everywhere we needed, allowing us to truly see the city and interact with locals. If the bike share business works so well in NYC, why can’t it be just as successful in our hometown of Des Moines, Iowa? This thought led us to create an analysis to determine if it is in fact feasible. While we found a potential investor to provide funding we still need to figure out the mechanics behind making the bike share business work.
 
+Luckily CitiBike is kind enough to provide the public with downloadable files of trip histories. For our analysis we will be sifting through a CSV file containing all data from August 2019 because there is typically more traffic during the summer months. Tableau will be our tool of choice to help tell the story of this data set. We will create our visualizations by populating the columns, rows, filters, and marks boxes in Tableau with different data points from the CSV file. Afterwards, we will determine if the bike share business is sustainable and if it would be successful in Des Moines. 
 
 ## Results
 ### Visualizations
