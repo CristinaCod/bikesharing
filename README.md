@@ -31,7 +31,7 @@ Based on the visualization we can see that Males, colored in orange, are the maj
 
 ![gender.png](https://github.com/CristinaCod/bikesharing/blob/main/Visualizations/Bike%20Trip%20Analysis-6.png)
 #### ***Top Starting and Ending Locations***
-
+Based on the two visualizations it appears that the top starting and end locations are very close if not the exact same spots. This shows that the original marketing team did a great job at determining areas with a lot of foot traffic that would lead to the most popular spots to place bike share locations. 
 
 ![stop_start.png](https://github.com/CristinaCod/bikesharing/blob/main/Visualizations/Bike%20Trip%20Analysis-7.png)
 
