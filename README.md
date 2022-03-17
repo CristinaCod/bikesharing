@@ -40,7 +40,7 @@ A Tableau story of all the visualizations can be found at:
 
 ## Summary
 ### Findings
-Based on all the above visualizations and analysis of them it becomes apparent that the bike share is successful and profitable in New York City and therefore with the right tactics and implementation it could also be successful in Des Moines if properly targeted to that audience. 
+Based on all the above visualizations and analysis of them it becomes apparent that the bike share is successful and profitable in New York City and therefore with the right tactics and implementation it could also be successful in Des Moines if properly targeted to that audience. We know for a fact males are the most active users and it is typically for their mornin commute. As long as those parameters match that in Iowa there is no reason this bike share can't also be successful there as well. 
 ### Suggestions
 To aid in solidifying the proposal to potential stakeholders I would recommend creating a visualization with a breakdown of the age of users based on the ‘birth year’ data point given in the csv file. We could create 10-year ranges to figure out who the main audience is that is utilizing this service and then find ways to target advertisements toward them specifically to hopefully grow our numbers and entice new clients. 
 
